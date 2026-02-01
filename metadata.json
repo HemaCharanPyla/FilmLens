@@ -1,0 +1,5 @@
+{
+  "name": "FilmLens",
+  "description": "A high-end movie discovery and recommendation platform powered by OMDb API. Search, filter, and get personalized film suggestions based on your tastes.",
+  "requestFramePermissions": []
+}
